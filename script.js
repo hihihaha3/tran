@@ -1,4 +1,4 @@
-const messages = ["❤️Nhớ nhớ nhớ em❤️"];
+const messages = ["❤️Nhớ nhớ nhớ em❤️Hà Trang"];
 
 function generateRandomNotifications() {
   const notificationCount = 100;
